@@ -5,7 +5,7 @@ Designed specifically for the Bosch RA1181 table to allow for dust collection un
 
 ## Design
 
-Original design on Fusion 360 - https://a360.co/2s7oDmr
+Original design on Fusion 360 - https://a360.co/36FtSbZ
 Feel free to branch/edit with the license below.
 
 
